@@ -12,11 +12,11 @@ import { generateAnswerObjs, shuffle } from "../src/utils";
 import currentAnswers from "./allAnswers.json";
 
 // config
-const minNumAnswers = 20;
+const minNumAnswers = 1;
 const writeSupplementaryFiles = true;
 // 10 years worth of puzzles per file. avoid slow loading page and need for git-lfs with all puzzles in one file.
 // need to update to use allAnswers2 10 years from now. see you in the future o_0
-const numPuzzlesPerFile = 3650;
+const numPuzzlesPerFile = 1596;
 
 // TODO: dynamic import in app.vue and here, use variable to ensure script and app use same data
 const answerFile = "allAnswers.json" // match App.vue

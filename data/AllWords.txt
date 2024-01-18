@@ -87,8 +87,8 @@ akari
 akarida
 akarikdari
 akariklu
-akasirem
 akasir uteb
+akasirem
 akaware
 akemelu
 akepwar
@@ -260,7 +260,7 @@ bab
 baba
 babuk
 babusedari
-Babusemeda
+babusemeda
 badari
 badmirik
 badmirikda
@@ -529,7 +529,7 @@ daraketirdarda
 daramaideret
 darami 
 darapei
-Darapigreda
+darapigreda
 dararger
 dararsirda
 darasmerare
@@ -660,7 +660,7 @@ detrerdi
 detwak
 detwakda
 detwakdarda
-Detwakeda
+detwakeda
 detwaki
 detwaklare
 detwakli
@@ -1151,7 +1151,7 @@ idimidim
 idoni
 idoni 
 idonikak
-Iesu
+iesu
 igardi
 igardiei
 iger
@@ -1221,6 +1221,7 @@ ipitli
 ipri
 ipu
 ir
+ir le
 ira
 irado
 irau 
@@ -1235,7 +1236,6 @@ irili
 irir
 irkep
 irkes
-ir le
 irmer
 irmilu
 irmirli
@@ -1288,11 +1288,11 @@ izrum
 izurzur
 ka
 kab
+kab wed
 kaba
 kababu
 kabalam
 kabwali
-kab wed
 kadasmer
 kaiam
 kaied
@@ -1324,7 +1324,7 @@ karr
 katakei
 katawar
 kau
-Kau
+kau
 kaubet
 kaubu
 kaubuem
@@ -1600,9 +1600,9 @@ mei
 meige
 meitmeit
 mek
+mek gab
 meke
 meker
-mek gab
 mekik
 mekikem
 mekmek
@@ -1923,7 +1923,7 @@ odaralei
 odarasmelei
 odarawei
 odasmerlare
-Odawer
+odawer
 odetaut
 odetautare
 odigemer
@@ -1978,11 +1978,11 @@ onaup
 onawer
 onerwer
 op
+op ge
 opasi
 opele
 opem
 opgab
-op ge
 opged
 opnor
 optum
@@ -2075,8 +2075,8 @@ peumer
 pewer
 pi
 pigir
-pigirpigir
 pigir pigir
+pigirpigir
 pikum
 pilawar
 pipisor
@@ -2156,11 +2156,11 @@ seur
 seuriseuri
 sharon
 si
+si gegur
 siar
 sib
 sibwani
 siderr
-si gegur
 sik
 sikak
 sikbau
@@ -2385,7 +2385,7 @@ ubar
 ubarit
 ubir
 udum
-Ugar
+ugar
 ugaram le
 uma
 umele
@@ -2405,8 +2405,8 @@ upiditida
 upiditili
 upinati
 ur
-urari
 ura teb
+urari
 urder
 urid
 uridili

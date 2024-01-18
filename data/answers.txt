@@ -1063,6 +1063,7 @@ iperli
 ipit
 ipitli
 ipri
+ir le
 irado
 irau 
 irdi
@@ -1075,7 +1076,6 @@ irili
 irir
 irkep
 irkes
-ir le
 irmer
 irmilu
 irmirli
@@ -1121,11 +1121,11 @@ iyei
 izer
 izrum
 izurzur
+kab wed
 kaba
 kababu
 kabalam
 kabwali
-kab wed
 kadasmer
 kaiam
 kaied
@@ -1378,9 +1378,9 @@ medi
 megimegi
 meige
 meitmeit
+mek gab
 meke
 meker
-mek gab
 mekik
 mekikem
 mekmek
@@ -1682,11 +1682,11 @@ onaker
 onaup
 onawer
 onerwer
+op ge
 opasi
 opele
 opem
 opgab
-op ge
 opged
 opnor
 optum
@@ -1762,8 +1762,8 @@ pesur
 peumer
 pewer
 pigir
-pigirpigir
 pigir pigir
+pigirpigir
 pikum
 pilawar
 pipisor
@@ -1831,10 +1831,10 @@ sesa
 seur
 seuriseuri
 sharon
+si gegur
 siar
 sibwani
 siderr
-si gegur
 sikak
 sikbau
 sikerr
@@ -2024,8 +2024,8 @@ upiditi
 upiditida
 upiditili
 upinati
-urari
 ura teb
+urari
 urder
 urid
 uridili

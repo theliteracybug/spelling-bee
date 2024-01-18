@@ -12,7 +12,7 @@ import { generateAnswerObjs, shuffle } from "../src/utils";
 import currentAnswers from "./allAnswers.json";
 
 // config
-const minNumAnswers = 2;
+const minNumAnswers = 20;
 const writeSupplementaryFiles = true;
 // 10 years worth of puzzles per file. avoid slow loading page and need for git-lfs with all puzzles in one file.
 // need to update to use allAnswers2 10 years from now. see you in the future o_0

@@ -1,6 +1,4 @@
-<template>
-
-</template>
+<template></template>
 
 <style scoped lang="scss">
 html.dark {

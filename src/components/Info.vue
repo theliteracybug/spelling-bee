@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Support from "./Support.vue";
-const email = "conor.sheehan.dev@gmail.com";
+const email = "ebrace@mac.com";
 </script>
 
 <template>
@@ -20,9 +20,6 @@ const email = "conor.sheehan.dev@gmail.com";
       <li>{{ $t("helpPointsRule2") }}.</li>
       <li>{{ $t("helpPointsRule3A") }}. {{ $t("helpPointsRule3B") }}!</li>
     </ul>
-
-    <h3>Support</h3>
-    <Support />
 
     <h3>{{ $t("AboutGame") }}</h3>
     <ul>
@@ -55,7 +52,7 @@ const email = "conor.sheehan.dev@gmail.com";
         {{ $t("BugText") }}
         <el-link
           type="primary"
-          href="https://github.com/ConorSheehan1/spelling-bee/issues"
+          href="https://github.com/theliteracybug/spelling-bee/issues"
           target="_blank"
           >GitHub</el-link
         >

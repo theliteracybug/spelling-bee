@@ -35,32 +35,6 @@ const email = "ebrace@mac.com";
           New York Times Spelling Bee
         </el-link>
       </li>
-      <li>
-        {{ $t("WordlistSource") }}
-        <el-link
-          type="primary"
-          href="https://github.com/en-wl/wordlist/blob/master/alt12dicts/2of4brif.txt"
-          target="_blank">
-          Wordlist
-        </el-link>
-      </li>
-    </ul>
-
-    <h3>{{ $t("Bugs") }}</h3>
-    <ul>
-      <li>
-        {{ $t("BugText") }}
-        <el-link
-          type="primary"
-          href="https://github.com/theliteracybug/spelling-bee/issues"
-          target="_blank"
-          >GitHub</el-link
-        >
-        {{ $t("BugTextEmail") }}
-        <el-link type="primary" :href="`mailto:${email}`" target="_blank">{{
-          email
-        }}</el-link>
-      </li>
     </ul>
   </div>
 </template>
